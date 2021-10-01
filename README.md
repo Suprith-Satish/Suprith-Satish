@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Suprith-Satish
+- 👋 Hi, I’m Suprith Satish
 - 👀 I’m interested in learning new things especially data analytics / data science
 - 🌱 I’m currently learning SAS programming and Azure
 - 📫 How to reach me email : suprithsatish2001@gmail.com
